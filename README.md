@@ -1,18 +1,10 @@
-### Hi there 👋
+<br>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anggitpp&theme=dark" alt="streak" height="180"/>
 
-<!--
-**anggitpp/anggitpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 👜 Currently working at Office
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anggit Pangestu](https://github-readme-stats.vercel.app/api?username=anggitpp&show_icons=true&theme=algolia)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/anggitpp/anggitpp/output/github-snake-dark.svg"
+         alt="Animation">
+</div>
