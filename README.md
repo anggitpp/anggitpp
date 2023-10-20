@@ -4,7 +4,7 @@
 ### About Me
 - 👜 Currently working at Home
 - 🔗 Open for collaboration
-- 👨🏻‍💻 Developing HRMS, Warehouse, ERP, etc.
+- 👨🏻‍💻 Develope HRMS, Warehouse, ERP, etc.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/anggitpp/anggitpp/output/github-snake-dark.svg"
